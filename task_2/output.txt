@@ -1,0 +1,594 @@
+GRI
+GRI
+STANDARDS
+GRI 201: ECONOMIC PERFORMANCE
+2016
+GRI
+201
+GSSB
+2
+Contents
+Introduction
+3
+GRI 201: Economic Performance
+1. Management approach disclosures
+2. Topic-specific disclosures
+Disclosure 201-1 Direct economic value generated and distributed
+Disclosure 201-2 Financial implications and other risks and opportunities due
+to climate change
+Disclosure 201-3 Defined benefit plan obligations and other retirement plans
+Disclosure 201-4 Financial assistance received from government
+5
+5
+6
+6
+9
+11
+12
+Glossary
+13
+References
+15
+About this Standard
+Note: This document includes hyperlinks to other Standards. In most browsers, using 'ctrl' + click will
+open external links in a new browser window. After clicking on a link, use 'alt' + left arrow to return to
+the previous view.
+GRI 201: Economic Performance 2016
+Introduction
+A. Overview
+This Standard is part of the set of GRI Sustainability
+Reporting Standards (GRI Standards). These Standards
+are designed to be used by organizations to report
+about their impacts on the economy, the environment,
+and society.
+The GRI Standards are structured as a set of
+interrelated, modular standards. The full set can be
+downloaded at www.globalreporting.org/standards/
+There are three universal Standards that apply to every
+organization preparing a sustainability report:
+GRI 101: Foundation
+GRI 102: General Disclosures
+GRI 103: Management Approach
+GRI 101: Foundation is the starting point for using
+the GRI Standards. It has essential information
+on how to use and reference the Standards.
+Figure 1
+Overview of the set of GRI Standards
+Universal
+Standards
+Topic-
+specific
+Standards
+Foundation
+GRI
+101
+Starting point
+for using the
+GRI Standards
+General
+Disclosures
+GRI
+102
+To report contextual
+information about
+an organization
+Management
+Approach
+GRI
+103
+To report the
+management approach
+for each material topic
+Economic
+GRI
+200
+Select from these to report specific disclosures
+for each material topic
+Environmental
+GRI
+300
+Social
+GRI
+400
+An organization then selects from the set of topic-
+specific GRI Standards for reporting on its material
+topics. These Standards are organized into three series:
+200 (Economic topics), 300 (Environmental topics) and
+400 (Social topics).
+Each topic Standard includes disclosures specific to
+that topic, and is designed to be used together with
+GRI 103: Management Approach, which is used to
+report the management approach for the topic.
+GRI 201: Economic Performance is a topic-specific
+GRI Standard in the 200 series (Economic
+topics).
+B. Using the GRI Standards and making claims
+There are two basic approaches for using the GRI
+Standards. For each way of using the Standards there
+is a corresponding claim, or statement of use, which
+an organization is required to include in any published
+materials.
+1. The GRI Standards can be used as a set to prepare
+a sustainability report that is in accordance with
+the Standards. There are two options for preparing
+a report in accordance (Core or Comprehensive),
+depending on the extent of disclosures included in
+the report.
+An organization preparing a report in accordance
+with the GRI Standards uses this Standard,
+GRI 201: Economic Performance, if this is one of its
+material topics.
+2. Selected GRI Standards, or parts of their content,
+can also be used to report specific information,
+without preparing a report in accordance with
+the Standards. Any published materials that use
+the GRI Standards in this way are to include a
+"GRI-referenced" claim.
+See Section 3 of GRI 101: Foundation for more
+information on how to use the GRI Standards,
+and the specific claims that organizations are
+required to include in any published materials.
+GRI 201: Economic Performance 2016
+3
+4
+C. Requirements, recommendations and guidance
+The GRI Standards include:
+Requirements. These are mandatory instructions.
+In the text, requirements are presented in bold font
+and indicated with the word 'shall'. Requirements are
+to be read in the context of recommendations and
+guidance; however, an organization is not required to
+comply with recommendations or guidance in order
+to claim that a report has been prepared in accordance
+with the Standards.
+Recommendations. These are cases where a particular
+course of action is encouraged, but not required. In the
+text, the word 'should' indicates a recommendation.
+Guidance. These sections include background
+information, explanations and examples to help
+organizations better understand the requirements.
+An organization is required to comply with all applicable
+requirements in order to claim that its report has been
+prepared in accordance with the GRI Standards. See
+GRI 101: Foundation for more information.
+D. Background context
+In the context of the GRI Standards, the economic
+dimension of sustainability concerns an organization's
+impacts on the economic conditions of its stakeholders,
+and on economic systems at local, national, and
+global levels.
+The Standards in the Economic series (200) address
+the flow of capital among different stakeholders,
+and the main economic impacts of an organization
+throughout society.
+GRI 201 addresses the topic of economic performance.
+This includes the economic value generated and
+distributed (EVG&D) by an organization; its defined
+benefit plan obligations; the financial assistance it
+receives from any government; and the financial
+implications of climate change.
+These concepts are covered in key instruments of
+the Organisation for Economic Co-operation and
+Development: see References.
+The disclosures in this Standard can provide information
+about an organization's impacts related to economic
+performance, and how it manages them.
+GRI 201: Economic Performance 2016
+GRI 201:
+Economic Performance
+This Standard includes disclosures on the management approach and topic-specific
+disclosures. These are set out in the Standard as follows:
+Management approach disclosures (this section references GRI 103)
+Disclosure 201-1 Direct economic value generated and distributed
+Disclosure 201-2 Financial implications and other risks and opportunities
+due to climate change
+Disclosure 201-3 Defined benefit plan obligations and other retirement plans
+Disclosure 201-4 Financial assistance received from government
+1. Management approach disclosures
+Management approach disclosures are a narrative explanation of how an organization manages a material topic,
+the associated impacts, and stakeholders' reasonable expectations and interests. Any organization that claims its
+report has been prepared in accordance with the GRI Standards is required to report on its management approach
+for every material topic, as well as reporting topic-specific disclosures for those topics.
+Therefore, this topic-specific Standard is designed to be used together with GRI 103: Management Approach in order
+to provide full disclosure of the organization's impacts. GRI 103 specifies how to report on the management approach
+and what information to provide.
+Reporting requirements
+1.1
+The reporting organization shall report its management approach for economic performance using
+GRI 103: Management Approach.
+GRI 201: Economic Performance 2016
+5
+Disclosure
+201-1
+6
+2. Topic-specific disclosures
+An organization is expected to compile information for economic disclosures using figures from its audited
+financial statements or from its internally-audited management accounts, whenever possible. Data can be
+compiled using, for example:
+the relevant International Financial Reporting Standards (IFRS), published by the International Accounting
+Standards Board (IASB), and the Interpretations developed by the IFRS Interpretations Committee
+(specific IFRS are referenced for some of the disclosures);
+the International Public Sector Accounting Standards (IPSAS) issued by the International Federation
+of Accountants (IFAC);
+national or regional standards recognized internationally for the purpose of financial reporting.
+Disclosure 201-1
+Direct economic value generated and distributed
+Reporting requirements
+The reporting organization shall report the following information:
+a. Direct economic value generated and distributed (EVG&D) on an accruals basis, including the
+basic components for the organization's global operations as listed below. If data are presented
+on a cash basis, report the justification for this decision in addition to reporting the following
+basic components:
+i.
+ii.
+Direct economic value generated: revenues;
+Economic value distributed: operating costs, employee wages and benefits,
+payments to providers of capital, payments to government by country, and
+community investments;
+iii. Economic value retained: 'direct economic value generated' less 'economic value
+distributed'.
+and the criteria used for defining significance.
+When compiling the information specified in Disclosure 201-1, the reporting organization shall,
+if applicable, compile the EVG&D from data in the organization's audited financial or profit and
+loss (P&L) statement, or its internally audited management accounts.
+b. Where significant, report EVG&D separately at country, regional, or market levels,
+2.1
+Guidance
+Background
+Information on the creation and distribution of
+economic value provides a basic indication of how
+an organization has created wealth for stakeholders.
+Several components of the economic value generated
+and distributed (EVG&D) also provide an economic
+profile of an organization, which can be useful for
+normalizing other performance figures.
+If presented in country-level detail, EVG&D can provide
+a useful picture of the direct monetary value added to
+local economies.
+GRI 201: Economic Performance 2016
+Guidance for Disclosure 201-1
+Revenues
+An organization can calculate revenues as net sales plus
+revenues from financial investments and sales of assets.
+Net sales can be calculated as gross sales from products
+and services minus returns, discounts, and allowances.
+Revenues from financial investments can include cash
+received as:
+interest on financial loans;
+dividends from shareholdings;
+Disclosure 201-1
+Continued
+royalties;
+direct income generated from assets, such as
+property rental.
+Revenues from sale of assets can include:
+physical assets, such as property, infrastructure,
+and equipment;
+intangibles, such as intellectual property rights,
+designs, and brand names.
+Operating costs
+An organization can calculate operating costs as cash
+payments made outside the organization for materials,
+product components, facilities, and services purchased.
+Services purchased can include payments to
+self-employed persons, temporary placement agencies
+and other organizations providing services. Costs
+related to workers who are not employees working
+in an operational role are included as part of services
+purchased, rather than under employee wages
+and benefits.
+Operating costs can include:
+property rental;
+license fees;
+facilitation payments (since these have a clear
+commercial objective);
+royalties;
+payments for contract workers;
+training costs, if outside trainers are used;
+personal protective clothing.
+The use of facilitation payments is also addressed
+in GRI 205: Anti-corruption.
+Employee wages and benefits
+An organization can calculate employee wages and
+benefits as total payroll (including employee salaries
+and amounts paid to government institutions on behalf
+of employees) plus total benefits (excluding training,
+costs of protective equipment or other cost items
+directly related to the employee's job function).
+Amounts paid to government institutions on behalf
+of employees can include employee taxes, levies, and
+unemployment funds.
+Total benefits can include:
+regular contributions, such as to pensions,
+insurance, company vehicles, and private health;
+other employee support, such as housing,
+interest-free loans, public transport assistance,
+educational grants, and redundancy payments.
+Payments to providers of capital
+An organization can calculate payments to providers
+of capital as dividends to all shareholders, plus interest
+payments made to providers of loans.
+Interest payments made to providers of loans can
+include:
+interest on all forms of debt and borrowings
+(not only long-term debt);
+arrears of dividends due to preferred shareholders.
+Payments to government
+An organization can calculate payments to governments
+as all of the organization's taxes plus related penalties
+paid at the international, national, and local levels.
+Organization taxes can include corporate, income,
+and property.
+Payments to government exclude deferred taxes,
+because they may not be paid.
+If operating in more than one country, the organization
+can report taxes paid by country, including the definition
+of segmentation used.
+Community investments
+Total community investments refers to actual
+expenditures in the reporting period, not commitments.
+An organization can calculate community investments
+as voluntary donations plus investment of funds in the
+broader community where the target beneficiaries are
+external to the organization. Voluntary donations and
+investment of funds in the broader community where
+the target beneficiaries are external to the organization
+can include:
+contributions to charities, NGOs and research
+institutes (unrelated to the organization's
+commercial research and development);
+funds to support community infrastructure,
+such as recreational facilities;
+direct costs of social programs, including arts
+and educational events.
+If reporting infrastructure investments, an
+organization can include costs of goods and labor,
+in addition to capital costs, as well as operating costs
+for support of ongoing facilities or programs. An
+example of support for ongoing facilities or programs
+can include the organization funding the daily operations
+of a public facility.
+Community investments exclude legal and commercial
+activities or where the purpose of the investment is
+exclusively commercial (donations to political parties can
+be included, but are also addressed separately in more
+detail in GRI 415: Public Policy).
+GRI 201: Economic Performance 2016
+7
+8
+Disclosure 201-1
+Continued
+Community investments also exclude any infrastructure
+investment that is driven primarily by core business
+needs, or to facilitate the business operations of an
+organization. Infrastructure investments driven primarily
+by core business needs can include, for example,
+building a road to a mine or a factory. The calculation of
+investment can include infrastructure built outside the
+main business activities of the organization, such as a
+school or hospital for workers and their families.
+See references 5, 6, 7 and 9 in the References section.
+GRI 201: Economic Performance 2016
+Disclosure
+201-2
+Disclosure 201-2
+Financial implications and other risks and opportunities due to
+climate change
+Reporting requirements
+The reporting organization shall report the following information:
+a.
+Risks and opportunities posed by climate change that have the potential to generate
+substantive changes in operations, revenue, or expenditure, including:
+i.
+ii. a description of the impact associated with the risk or opportunity;
+iii. the financial implications of the risk or opportunity before action is taken;
+iv. the methods used to manage the risk or opportunity;
+V. the costs of actions taken to manage the risk or opportunity.
+When compiling the information specified in Disclosure 201-2, if the reporting organization
+does not have a system in place to calculate the financial implications or costs, or to make
+revenue projections, it shall report its plans and timeline to develop the necessary systems.
+a description of the risk or opportunity and its classification as either physical,
+regulatory, or other;
+2.2
+Reporting recommendations
+2.3
+When compiling the information specified in Disclosure 201-2, the reporting organization should report
+the following additional characteristics for the identified risks and opportunities:
+2.3.1
+2.3.2
+2.3.3
+2.3.4
+A description of the risk or opportunity driver, such as a particular piece of legislation, or a physical
+driver, such as water scarcity;
+The projected time frame in which the risk or opportunity is expected to have substantive
+financial implications;
+Direct and indirect impacts (whether the impact directly affects the organization, or indirectly
+affects the organization via its value chain);
+The potential impacts generally, including increased or decreased:
+2.3.4.1
+2.3.4.2
+2.3.4.3
+Likelihood (the probability of the impact on the organization);
+Magnitude of impact (if occurring, the extent to which the impact affects the organization financially).
+capital and operational costs;
+demand for products and services;
+capital availability and investment opportunities;
+2.3.5
+2.3.6
+Guidance
+Guidance for Disclosure 201-2
+Risk and opportunities due to climate change can be
+classified as:
+physical
+regulatory
+other
+Physical risks and opportunities can include:
+the impact of more frequent and intense storms;
+changes in sea level, ambient temperature, and
+water availability;
+impacts on workers - such as health effects,
+including heat-related illness or disease, and the
+need to relocate operations.
+GRI 201: Economic Performance 2016
+9
+10
+Disclosure 201-2
+Continued
+GRI 201: Economic Performance 2016
+Disclosure
+201-3
+Disclosure 201-3
+Defined benefit plan obligations and other retirement plans
+Reporting requirements
+The reporting organization shall report the following information:
+a.
+b. If a separate fund exists to pay the plan's pension liabilities:
+If the plan's liabilities are met by the organization's general resources, the estimated value
+of those liabilities.
+i.
+ii. the basis on which that estimate has been arrived at;
+iii. when that estimate was made.
+C. If a fund set up to pay the plan's pension liabilities is not fully covered, explain the strategy,
+if any, adopted by the employer to work towards full coverage, and the timescale, if any,
+by which the employer hopes to achieve full coverage.
+d. Percentage of salary contributed by employee or employer.
+e. Level of participation in retirement plans, such as participation in mandatory or voluntary
+schemes, regional, or country-based schemes, or those with financial impact.
+Reporting recommendations
+2.4
+the extent to which the scheme's liabilities are estimated to be covered by the
+assets that have been set aside to meet them;
+When compiling the information specified in Disclosure 201-3, the reporting organization should:
+2.4.1
+2.4.2
+calculate the information in accordance with the regulations and methods for relevant jurisdictions,
+and report aggregated totals;
+use the same consolidation techniques as those applied in preparing the financial accounts of
+the organization.
+Guidance
+GRI 201: Economic Performance 2016
+11
+Disclosure
+201-4
+12
+Disclosure 201-4
+Financial assistance received from government
+Reporting requirements
+The reporting organization shall report the following information:
+a. Total monetary value of financial assistance received by the organization from any government
+2.5
+When compiling the information specified in Disclosure 201-4, the reporting organization shall
+identify the monetary value of financial assistance received from government through consistent
+application of generally accepted accounting principles.
+Guidance
+Background
+This disclosure provides a measure of governments'
+contributions to an organization.
+The significant financial assistance received from
+a government, in comparison with taxes paid,
+can be useful for developing a balanced picture
+of the transactions between the organization
+and government.
+See reference 8 in the References section.
+GRI 201: Economic Performance 2016
+Glossary
+This Glossary includes definitions for terms used in this Standard, which apply when using this Standard. These
+definitions may contain terms that are further defined in the complete GRI Standards Glossary.
+All defined terms are underlined. If a term is not defined in this Glossary or in the complete GRI Standards Glossary,
+definitions that are commonly used and understood apply.
+defined benefit plan
+post-employment benefit plan other than a defined contribution plan
+defined contribution plan
+post-employment benefit plan under which an entity pays fixed contributions into a separate entity (a fund)
+and will have no legal or constructive obligation to pay further contributions if the fund does not hold
+sufficient assets to pay all employee benefits relating to employee service in the current and prior periods
+employee
+individual who is in an employment relationship with the organization, according to national law or its
+application
+financial assistance
+direct or indirect financial benefits that do not represent a transaction of goods and services, but which are
+an incentive or compensation for actions taken, the cost of an asset, or expenses incurred
+Note: The provider of financial assistance does not expect a direct financial return from the assistance
+offered.
+full coverage
+greenhouse gas (GHG)
+impact
+plan assets that meet or exceed plan obligations
+gas that contributes to the greenhouse effect by absorbing infrared radiation
+In the GRI Standards, unless otherwise stated, 'impact' refers to the effect an organization has on the
+economy, the environment, and/or society, which in turn can indicate its contribution (positive or negative)
+to sustainable development.
+Note 1: In the GRI Standards, the term 'impact' can refer to positive, negative, actual, potential, direct,
+Note 2: Impacts on the economy, environment, and/or society can also be related to consequences for
+indirect, short-term, long-term, intended, or unintended impacts.
+the organization itself. For example, an impact on the economy, environment, and/or society can
+lead to consequences for the organization's business model, reputation, or ability to achieve its
+objectives.
+GRI 201: Economic Performance 2016
+13
+14
+material topic
+topic that reflects a reporting organization's significant economic, environmental and social impacts; or that
+substantively influences the assessments and decisions of stakeholders
+Note 1: For more information on identifying a material topic, see the Reporting Principles for defining
+Note 2: To prepare a report in accordance with the GRI Standards, an organization is required to report on
+Note 3: Material topics can include, but are not limited to, the topics covered by the GRI Standards in the
+report content in GRI 101: Foundation.
+its material topics.
+200, 300, and 400 series.
+worker
+person that performs work
+Note 1: The term 'workers' includes, but is not limited to, employees.
+Note 2: Further examples of workers include interns, apprentices, self-employed persons, and persons
+Note 3: In the context of the GRI Standards, in some cases it is specified whether a particular subset of
+working for organizations other than the reporting organization, e.g., for suppliers.
+workers is to be used.
+GRI 201: Economic Performance 2016
+References
+The following documents informed the development of this Standard and can be helpful for understanding
+and applying it.
+Authoritative intergovernmental instruments:
+1.
+Organisation for Economic Co-operation and Development (OECD), OECD Guidelines for Multinational
+Enterprises, 2011.
+Other relevant references:
+GRI 201: Economic Performance 2016
+15
+GRI
+STANDARDS
+standards@globalreporting.org
+www.globalreporting.org
+GRI
+PO Box 10039
+1001 EA
+Amsterdam
+The Netherlands
+GRI
+GSSB
+Legal liability
+This document, designed to promote sustainability reporting, has been developed
+by the Global Sustainability Standards Board (GSSB) through a unique multi-
+stakeholder consultative process involving representatives from organizations and
+report information users from around the world. While the GRI Board of Directors
+and GSSB encourage use of the GRI Sustainability Reporting Standards (GRI Standards)
+and related Interpretations by all organizations, the preparation and publication of
+reports based fully or partially on the GRI Standards and related Interpretations are
+the full responsibility of those producing them. Neither the GRI Board of Directors,
+GSSB nor Stichting Global Reporting Initiative (GRI) can assume responsibility for
+any consequences or damages resulting directly or indirectly from the use of the GRI
+Standards and related Interpretations in the preparation of reports, or the use of
+reports based on the GRI Standards and related Interpretations.
+Copyright and trademark notice
+This document is copyright-protected by Stichting Global Reporting Initiative (GRI).
+The reproduction and distribution of this document for information and/or use in
+preparing a sustainability report is permitted without prior permission from GRI.
+However, neither this document nor any extract from it may be reproduced, stored,
+translated, or transferred in any form or by any means (electronic, mechanical,
+photocopied, recorded, or otherwise) for any other purpose without prior written
+permission from GRI.
+Global Reporting Initiative, GRI and logo, GSSB and logo, and GRI Sustainability
+Reporting Standards (GRI Standards) are trademarks of Stichting Global
+Reporting Initiative.
+© 2018 GRI
+All rights reserved.
+ISBN: 978-90-8866-098-6
